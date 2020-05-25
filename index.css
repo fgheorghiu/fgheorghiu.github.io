@@ -41,7 +41,7 @@ body, html {
 
 .textInfo {
 	width: 25%;
-	line-height: 20px;
+	/*line-height: 20px;*/
 }
 
 .textRed {
@@ -62,6 +62,8 @@ body, html {
 
 .largeFont {
 	font-size: 52px;
+	margin-top: 20px;
+	margin-bottom: 20px;
 }
 
 .info {
