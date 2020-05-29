@@ -143,6 +143,7 @@ body, html {
 	text-align: center;
 }
 
+
 @media only screen and (max-width: 500px) { 
 	.circle {
 		width: 38%;
@@ -189,4 +190,39 @@ body, html {
 		margin-top: 10px;
 		margin-bottom: 10px;
 	}
+	
+	.info1 p {
+		margin: 0px;
+	}
+
+	.info2 p {
+		margin: 0px;
+	}
+
+	.info3 p {
+		margin: 0px;
+	}
  }
+
+
+@media screen and (max-width: 1367px) and (min-width: 1279px) {
+	
+	.smallFont {
+		font-size: 20px;
+	}
+
+	.mediumFont {
+		font-size: 30px;
+	}
+
+	.largeFont {
+		font-size: 48px;
+		margin-top: 14px;
+		margin-bottom: 14px;
+	}
+	
+	.info3 p {
+		margin-top: 0px;
+		margin-bottom: 0px;
+	}
+}
