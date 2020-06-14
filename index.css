@@ -77,6 +77,39 @@ body, html {
 	display: inline-block;
 }
 
+.projectInfo {
+	margin-left: 30% !important;
+	height: 80% !important;
+	margin-bottom: 3%;
+	text-align: center;
+}
+
+.projectTitle {
+	color: #01d1c1;
+	height: 5%;
+}
+
+.projectImage {
+	width: auto;
+	height: 47%;
+}
+
+.projectContent {
+	height: 90% !important;
+}
+
+.projectLocation {
+	font-size: 22px;
+	height: 4%;
+}
+
+.projectDescription {
+	font-size: 24px;
+	padding-left: 10px;
+	padding-right: 10px;
+	height: 25%;
+}
+
 .square {
   width: 70%;
   height: 70%;
