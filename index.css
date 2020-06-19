@@ -29,7 +29,7 @@ body, html {
 	margin: 2%;
 	color: black;
 	font-size: 36px;
-	text-decoration: none;
+	text-decoration: none !important;
 }
 
 .content {
@@ -86,7 +86,7 @@ body, html {
 
 .projectTitle {
 	color: #01d1c1;
-	height: 5%;
+	text-align: center;
 }
 
 .projectImage {
@@ -101,13 +101,15 @@ body, html {
 .projectLocation {
 	font-size: 22px;
 	height: 4%;
+	text-align: center;
 }
 
 .projectDescription {
-	font-size: 24px;
+	font-size: 20px;
 	padding-left: 10px;
 	padding-right: 10px;
 	height: 25%;
+	text-align:center;
 }
 
 .square {
